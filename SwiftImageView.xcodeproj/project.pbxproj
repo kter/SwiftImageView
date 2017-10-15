@@ -22,6 +22,8 @@
 		F058D8781F8FBD4200E1B81F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F058D87B1F8FBD4200E1B81F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F058D87D1F8FBD4200E1B81F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F058D8831F90318500E1B81F /* back1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = back1.jpg; path = "../../../../Desktop/Swift4Images&SampleCode/Swift総合ファイル/Swift3iOS10豪華版基礎資料/画像素材集/SwiftImageView/back1.jpg"; sourceTree = "<group>"; };
+		F058D8841F90318600E1B81F /* back2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = back2.jpg; path = "../../../../Desktop/Swift4Images&SampleCode/Swift総合ファイル/Swift3iOS10豪華版基礎資料/画像素材集/SwiftImageView/back2.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,8 @@
 		F058D8701F8FBD4200E1B81F /* SwiftImageView */ = {
 			isa = PBXGroup;
 			children = (
+				F058D8831F90318500E1B81F /* back1.jpg */,
+				F058D8841F90318600E1B81F /* back2.jpg */,
 				F058D8711F8FBD4200E1B81F /* AppDelegate.swift */,
 				F058D8731F8FBD4200E1B81F /* ViewController.swift */,
 				F058D8751F8FBD4200E1B81F /* Main.storyboard */,
